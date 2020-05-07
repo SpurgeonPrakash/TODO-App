@@ -1,0 +1,24 @@
+{
+  "name": "building-json-api",
+  "version": "1.0.0",
+  "description": "Welcome to the AWS CodeStar sample web application\r ==================================================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpurgeonPrakash/Building-JSON-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpurgeonPrakash/Building-JSON-API/issues"
+  },
+  "homepage": "https://github.com/SpurgeonPrakash/Building-JSON-API#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.11"
+  }
+}
